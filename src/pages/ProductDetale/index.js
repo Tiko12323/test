@@ -73,7 +73,8 @@ function ProductDetale(){
                             <p>{productDetale?.year}</p>
                         </div>
                         <div className="line"></div>
-                        <button className="buy_btn">Buy</button>
+                        {/* <button className="buy_btn">Buy</button> */}
+                        <div>adsad</div>
                     </div>
                 </div> 
             }
