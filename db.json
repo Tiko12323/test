@@ -1,0 +1,123 @@
+{
+  "categoryes": [
+    {
+      "id": "1",
+      "title": "kvadrocikl"
+    },
+    {
+      "id": "2",
+      "title": "kater"
+    },
+    {
+      "id": "3",
+      "title": "gidrocikl"
+    },
+    {
+      "id": "4",
+      "title": "lodki"
+    },
+    {
+      "id": "5",
+      "title": "vezdexodi"
+    },
+    {
+      "id": "6",
+      "title": "snegoxodi"
+    },
+    {
+      "id": "7",
+      "title": "dvigateli"
+    },
+    {
+      "id": "8",
+      "title": "zapchasti"
+    }
+  ],
+  "pages": [
+    {
+      "id": "1",
+      "title": "Shops",
+      "path": "/shops"
+    },
+    {
+      "id": "2",
+      "title": "Stocks",
+      "path": "/stocks"
+    },
+    {
+      "id": "3",
+      "title": "Delivery",
+      "path": "/delivery"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "isFavorite": false,
+      "title": "nisan",
+      "img": "https://www.topgear.com/sites/default/files/2024/07/Nissan%20Qashqai%20N-Design_012-source.jpg",
+      "manufacturer": "Germany",
+      "price": "2000$",
+      "count": 2,
+      "power": 150,
+      "engineType": "petrol",
+      "year": 2015,
+      "discountVisibal": true
+    },
+    {
+      "id": "2",
+      "isFavorite": false,
+      "title": "mercedes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2018_Mercedes-Benz_A200_AMG_Line_Premium%2B_1.3_Front.jpg/1200px-2018_Mercedes-Benz_A200_AMG_Line_Premium%2B_1.3_Front.jpg",
+      "manufacturer": "England",
+      "price": "5000$",
+      "count": 5,
+      "power": 215,
+      "engineType": "gas",
+      "year": 2016,
+      "discountVisibal": false
+    },
+    {
+      "id": "3",
+      "isFavorite": true,
+      "title": "bmw",
+      "img": "https://www.bmw.am/content/dam/bmw/common/all-models/m-series/series-overview/bmw-m-series-seo-overview-ms-04.jpg",
+      "manufacturer": "Russia",
+      "price": "4000$",
+      "count": 8,
+      "power": 231,
+      "engineType": "petrol",
+      "year": 2017,
+      "discountVisibal": true
+    },
+    {
+      "id": "4",
+      "title": "mazda",
+      "price": "3000$",
+      "manufacturer": "Chines",
+      "count": 1,
+      "power": 515,
+      "engineType": "energy",
+      "year": 2018,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXK5qE4E9A_qBJhQVVjnp9af0o4lXq6Owfw&s",
+      "discountVisibal": false,
+      "isFavorite": false
+    }
+  ],
+  "favorites": [
+    {
+      "id": "3",
+      "isFavorite": true,
+      "title": "bmw",
+      "img": "https://www.bmw.am/content/dam/bmw/common/all-models/m-series/series-overview/bmw-m-series-seo-overview-ms-04.jpg",
+      "manufacturer": "Russia",
+      "price": "4000$",
+      "count": 8,
+      "power": 231,
+      "engineType": "petrol",
+      "year": 2017,
+      "discountVisibal": true
+    }
+  ],
+  "basket": []
+}
